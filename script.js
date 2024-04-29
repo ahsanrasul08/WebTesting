@@ -1,5 +1,6 @@
 "use strict";
 
+//Requirement
 //Rock beats scissors, scissors beat paper, and paper beats rock.
 //a funtion to get computer choice
 //a function to get player choice
